@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "underscore": ["lodash"]
+    }
+  },
+  "exclude": ["node_modules"]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
